@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": "The request is ok",
+    "data": {
+        "app_name": "World Famous Tours",
+        "package_name": "com.m360ict.wfttBd",
+        "play_store_version": "1.0.19+22",
+        "app_store_version": "1.0.10+20",
+        "microsoft_store_version": "1.0.0+1",
+        "force_update": false,
+        "is_pause": false,
+        "app_icon": "20250126174259-45295b47.png",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.wfttBd",
+        "app_store_link": "https://apps.apple.com/us/app/world-famous-tours/id6737253246",
+        "microsoft_store_link": null,
+        "id": 29,
+        "created_at": "2025-01-26T17:42:59.201130+06:00",
+        "updated_at": "2025-01-26T17:42:59.201130+06:00",
+        "created_by": "soton.m360ict@gmail.com",
+        "updated_by": null
+    }
+}
