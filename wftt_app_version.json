@@ -7,7 +7,7 @@
         "play_store_version": "1.0.19+22",
         "app_store_version": "1.0.10+20",
         "microsoft_store_version": "1.0.0+1",
-        "force_update": false,
+        "force_update": true,
         "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.wfttBd",
