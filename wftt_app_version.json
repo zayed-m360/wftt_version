@@ -8,7 +8,7 @@
         "app_store_version": "1.0.11",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
-        "is_pause": false,
+        "is_pause": true,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.wfttBd",
         "app_store_link": "https://apps.apple.com/us/app/world-famous-tours/id6737253246",
